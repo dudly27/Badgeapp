@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@lukso/lsp-smart-contracts": "^0.14.0",
-    "@lukso/lsp-factory.js": "^3.3.1",
+    "@lukso/lsp-factory.js": "^0.13.1",
     "ethers": "^6.13.2",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
