@@ -9,15 +9,15 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-"dependencies": {
-  "@lukso/lsp-smart-contracts": "^0.14.0",
-  "@lukso/lsp-factory.js": "^3.3.1",
-  "ethers": "^6.13.2",
-  "lucide-react": "^0.344.0",
-  "react": "^18.3.1",
-  "react-dom": "^18.3.1",
-  "react-hot-toast": "^2.4.1"
-},
+  "dependencies": {
+    "@lukso/lsp-smart-contracts": "^0.14.0",
+    "@lukso/lsp-factory.js": "^0.13.1",
+    "ethers": "^6.13.2",
+    "lucide-react": "^0.344.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1"
+  },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
     "@types/react": "^18.3.5",
